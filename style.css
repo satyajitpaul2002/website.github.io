@@ -55,8 +55,8 @@ h3{
 }
 .bottom-cloud{
     position: absolute;
-    left: 250px;
-    bottom: 300px;
+    left: 15.625rem;
+    bottom: 18.75rem;
 }
 .table{
     font-weight: lighter;
